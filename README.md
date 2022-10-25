@@ -11,4 +11,4 @@ A [reveal.js](https://revealjs.com/) presentation about [git](https://git-scm.co
 - [GitFlow Retrospective](https://nvie.com/posts/a-successful-git-branching-model)
 - [Github-Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [Learn Git Branching](https://learngitbranching.js.org)
-- [Hebrew Git Howto](https://youtu.be/Fyc9SXzjlmw">https://youtu.be/Fyc9SXzjlmw)
+- [Hebrew Git Howto](https://youtu.be/Fyc9SXzjlmw)
